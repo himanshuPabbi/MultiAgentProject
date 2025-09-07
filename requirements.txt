@@ -4,3 +4,4 @@ langchain-anthropic
 wikipedia-api
 requests
 python-dotenv
+langchain-community
